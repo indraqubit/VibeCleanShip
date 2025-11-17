@@ -14,7 +14,26 @@
 
 ## 🏷️ Tags
 
-`coding-methodology` `development-workflow` `ai-assisted-coding` `coding-practices` `software-development` `programming-philosophy` `developer-tools` `code-quality` `refactoring` `flow-state` `rapid-prototyping` `technical-debt` `clean-code` `agile-development` `pair-programming` `cursor-ai` `productivity` `best-practices` `code-organization` `maintainability`
+- `coding-methodology`
+- `development-workflow`
+- `ai-assisted-coding`
+- `coding-practices`
+- `software-development`
+- `programming-philosophy`
+- `developer-tools`
+- `code-quality`
+- `refactoring`
+- `flow-state`
+- `rapid-prototyping`
+- `technical-debt`
+- `clean-code`
+- `agile-development`
+- `pair-programming`
+- `cursor-ai`
+- `productivity`
+- `best-practices`
+- `code-organization`
+- `maintainability`
 
 ---
 
