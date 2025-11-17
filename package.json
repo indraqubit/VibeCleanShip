@@ -1,0 +1,42 @@
+{
+  "name": "vibe-coding-methodology",
+  "version": "1.0.0",
+  "description": "A systematic approach to creative coding with structured cleanup - Vibe first, clean systematically, ship confidently.",
+  "main": "vibe-coding-framework.js",
+  "scripts": {
+    "start": "node vibe-coding-framework.js",
+    "test": "node vibe-coding-framework.js --test",
+    "docs": "open README.md",
+    "philosophy": "open vibe-coding-philosophy.md",
+    "template": "open vibe-coding-template.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraqubit/VibeCleanShip.git"
+  },
+  "keywords": [
+    "development-methodology",
+    "coding-workflow",
+    "productivity",
+    "ai-assisted-coding",
+    "clean-code",
+    "rapid-prototyping",
+    "software-engineering"
+  ],
+  "author": "Vortex Realm Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indraqubit/VibeCleanShip/issues"
+  },
+  "homepage": "https://github.com/indraqubit/VibeCleanShip#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "README.md",
+    "CHANGELOG.md",
+    "vibe-coding-philosophy.md",
+    "vibe-coding-template.md",
+    "vibe-coding-framework.js"
+  ]
+}
