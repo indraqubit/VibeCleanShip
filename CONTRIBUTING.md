@@ -142,6 +142,7 @@ All contributions undergo review to ensure:
 - **Questions**: [GitHub Discussions](https://github.com/indraqubit/VibeCleanShip/discussions)
 - **Issues**: Descriptive bug reports and feature requests
 - **Reviews**: Constructive feedback appreciated
+- **Collaboration**: See [Sparring Partner Concept](./SPARRING_PARTNER.md) for effective partnership in vibe coding
 
 ### 📜 Code of Conduct
 
