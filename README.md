@@ -63,6 +63,10 @@ graph TD
 - **[Vibe Coding Template](./vibe-coding-template.md)** - Implementation template
 - **[Vibe Coding Guide by Tech Stack](./Vibe%20Coding%20Guide%20by%20Tech%20Stack.md)** - Stack-specific workflows
 
+### 🤝 Collaboration & Partnership
+- **[Sparring Partner Concept](./SPARRING_PARTNER.md)** - Four pillars for effective collaboration in vibe coding
+- **[Sparring Partner Deep Dive](./SPARRING_PARTNER_DEEP_DIVE.md)** - Detailed exploration of partnership dynamics
+
 ### 🛠️ Tools & Frameworks
 - **[vibe-coding-framework.js](./vibe-coding-framework.js)** - JavaScript utility for session management
 
@@ -263,6 +267,8 @@ Before ship: Production readiness and documentation
 - [Vibe Coding Philosophy](./vibe-coding-philosophy.md) - Deep dive
 - [Vibe Coding Template](./vibe-coding-template.md) - Implementation guide
 - [Stack-Specific Workflows](./Vibe%20Coding%20Guide%20by%20Tech%20Stack.md) - Technical details
+- [Sparring Partner Concept](./SPARRING_PARTNER.md) - Collaboration framework
+- [Sparring Partner Deep Dive](./SPARRING_PARTNER_DEEP_DIVE.md) - Partnership dynamics
 
 ---
 
